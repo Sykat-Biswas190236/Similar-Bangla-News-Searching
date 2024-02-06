@@ -6,5 +6,5 @@ https://www.kaggle.com/code/sykatbiswas36/category-prediction
 Keyword Extraction for Archive Code:
 https://www.kaggle.com/sykatbiswas36/keyword-extraction
 
-Database Used in the app
+Database Used as archive in the app
 https://drive.google.com/file/d/1FDbKCni0DUtLqFMRPqkYJfNbNolhmm2u/view?usp=drive_link
